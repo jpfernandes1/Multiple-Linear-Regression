@@ -14,7 +14,7 @@ Results:
 R = -0,847
 R² = 0.718
 
-Multiple Linear Regression
+### Multiple Linear Regression
 
 Variables:
 
